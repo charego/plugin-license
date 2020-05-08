@@ -1,13 +1,13 @@
-complete -c license -f -n "__fish_use_subcommand" -a mit
-complete -c license -f -n "__fish_use_subcommand" -a gpl-3.0
-complete -c license -f -n "__fish_use_subcommand" -a gpl-2.0
-complete -c license -f -n "__fish_use_subcommand" -a agpl-3.0
-complete -c license -f -n "__fish_use_subcommand" -a unlicense
-complete -c license -f -n "__fish_use_subcommand" -a apache-2.0
-complete -c license -f -n "__fish_use_subcommand" -a epl-1.0
-complete -c license -f -n "__fish_use_subcommand" -a bsd-2-clause
-complete -c license -f -n "__fish_use_subcommand" -a mpl-2.0
-complete -c license -f -n "__fish_use_subcommand" -a bsd-3-clause
-complete -c license -f -n "__fish_use_subcommand" -a lgpl-3.0
-complete -c license -f -n "__fish_use_subcommand" -a lgpl-2.1
-complete -c license -f -n "__fish_use_subcommand" -a wtfpl
+complete -c license -f -n "__fish_use_subcommand" -a "agpl-3.0\t'GNU Affero General Public License v3.0'
+apache-2.0\t'Apache License 2.0'
+bsd-2-clause\t'BSD 2-Clause \"Simplified\" License'
+bsd-3-clause\t'BSD 3-Clause \"New\" or \"Revised\" License'
+cc0-1.0\t'Creative Commons Zero v1.0 Universal'
+epl-2.0\t'Eclipse Public License 2.0'
+gpl-2.0\t'GNU General Public License v2.0'
+gpl-3.0\t'GNU General Public License v3.0'
+lgpl-2.1\t'GNU Lesser General Public License v2.1'
+lgpl-3.0\t'GNU Lesser General Public License v3.0'
+mit\t'MIT License'
+mpl-2.0\t'Mozilla Public License 2.0'
+unlicense\t'The Unlicense'"
